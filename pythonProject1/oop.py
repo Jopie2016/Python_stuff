@@ -1,5 +1,5 @@
 class Person:
-    def __init__(self, name, age, weight):  # Two properties of this class is name and age
+    def __init__(self, name, age, weight):  # Two properties of this class is name, age, weight
         self.name = name
         self.age = age
         self.weight = weight
