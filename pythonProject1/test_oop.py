@@ -9,5 +9,7 @@ class TestOop(unittest.TestCase):
         self.assertEqual(result, "John Is walking...")
 
 
-if __name__ == '__main__': #Code doesn't work but
+if __name__ == '__main__':
     unittest.main()
+
+# Code doesn't work but I will try to fix it
